@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/drawable/ic_baseline_add_location_24.xml" value="0.1545" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/drawable/shape_bgr_button_dangnhap.xml" value="0.107" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/drawable/shape_bgr_edt_dangnhap.xml" value="0.107" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/drawable/shape_home_top.xml" value="0.107" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_cuahang.xml" value="0.1" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_dangki.xml" value="0.1" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_main.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_quanly.xml" value="0.1" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_quanly_donhang.xml" value="0.22" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_quanly_quanly.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_quanly_shop.xml" value="0.25" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_quanly_themhang.xml" value="0.22" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/activity_sanpham.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/layout/row_list_menu_cuahang.xml" value="0.34074074074074073" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.22" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/menu/menu_bottom_quanly.xml" value="0.1" />
+        <entry key="..\:/Users/APC-LTN/Desktop/TGDT/app/src/main/res/menu/menu_sp_shop.xml" value="0.1" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_baohanh.xml" value="0.22" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_cuahang.xml" value="0.5" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_dangki.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_giohang.xml" value="0.25" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_hotro.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_infor_sanpham.xml" value="0.2397003745318352" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_lienhe.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_quanly.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_quanly_donhang.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_quanly_shop.xml" value="0.3625" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_quanly_themhang.xml" value="0.3472222222222222" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_sanpham.xml" value="0.25" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_sanpham_news.xml" value="0.33" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_thanhtoan.xml" value="0.33" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_tichdiem.xml" value="0.33" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_trangcanhan.xml" value="0.2655367231638418" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_trunggian_hang.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_trunggian_xoahang.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_trungian_xulydonhang.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/activity_vitri.xml" value="0.25" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/dialog_doimk.xml" value="0.3625" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/dialog_doiten.xml" value="0.3625" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/dialog_hotro.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/dialog_thongtin_nhanhang.xml" value="0.3625" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/row_giohang.xml" value="0.22" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/row_infor_quanlydon.xml" value="0.3472222222222222" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/row_list_menu_cuahang.xml" value="0.1" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/row_news.xml" value="0.33" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/layout/row_sp.xml" value="0.1" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/menu/menu_bottom_quanly.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/menu/menu_sp_shop.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/APC-LTN/Downloads/TGDT/app/src/main/res/menu/menu_top_quanlydon.xml" value="0.3472222222222222" />
+        <entry key="app/src/main/res/drawable/shape_bgr_button_dangnhap.xml" value="0.2640625" />
+        <entry key="app/src/main/res/drawable/shape_bgr_edt_dangnhap.xml" value="0.2640625" />
+        <entry key="app/src/main/res/drawable/shape_bgr_number_noti.xml" value="0.23425925925925925" />
+        <entry key="app/src/main/res/drawable/shape_center_home.xml" value="0.23425925925925925" />
+        <entry key="app/src/main/res/drawable/shape_home_top.xml" value="0.23425925925925925" />
+        <entry key="app/src/main/res/drawable/shape_vien_list_uudai.xml" value="0.23425925925925925" />
+        <entry key="app/src/main/res/layout/activity_baohanh.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/activity_cuahang.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_dangki.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_quanly.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_quanly_themhang.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_sanpham.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/dialog_hotro.xml" value="0.2477355072463768" />
+        <entry key="app/src/main/res/layout/row_list_menu_cuahang.xml" value="0.12056737588652482" />
+        <entry key="app/src/main/res/layout/row_sp.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_uudai.xml" value="0.165" />
+        <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/menu/menu_bottom_quanly.xml" value="0.1361111111111111" />
+        <entry key="app/src/main/res/menu/menu_sp_shop.xml" value="0.22592592592592592" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

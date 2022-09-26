@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176097447723",
+    "project_id": "tgdt-a13dd",
+    "storage_bucket": "tgdt-a13dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176097447723:android:112e0719566d7015553f6e",
+        "android_client_info": {
+          "package_name": "com.example.tgdt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176097447723-0fsmnuklf16h21rs4ojtomrcb5hgnjm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBndnYrhE_7NDkOk5zNRgn_4PaLXj1imJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176097447723-0fsmnuklf16h21rs4ojtomrcb5hgnjm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
